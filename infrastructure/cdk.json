@@ -1,0 +1,9 @@
+{
+  "app": "python3 app.py",
+  "profile": "resume-parser",
+  "context": {
+    "region": "us-east-1",
+    "@aws-cdk/aws-lambda:recognizeLayerVersion": true,
+    "@aws-cdk/core:stackRelativeExports": true
+  }
+}
