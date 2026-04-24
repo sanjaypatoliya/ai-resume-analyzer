@@ -81,8 +81,7 @@ resume-parser/
 ├── backend/          # FastAPI Python backend
 ├── frontend/         # React TypeScript frontend
 ├── infrastructure/   # AWS CDK Python stacks
-├── Makefile          # Deploy and test commands
-└── docker-compose.yml
+└── Makefile          # Deploy and test commands
 ```
 
 ## Sub-READMEs
